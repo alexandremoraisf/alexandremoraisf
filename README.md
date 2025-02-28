@@ -54,10 +54,5 @@ A fully-qualified Software Developer, who is very professional and goal-orientat
 <br />
 <br />
 
-<div align="center">
-  <a href="https://github.com/alexandremoraisf">
-  <img height="160px"  src="https://github-readme-stats.vercel.app/api?username=alexandremroaisf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremoraisf&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 
