@@ -75,8 +75,7 @@ A fully-qualified Software Developer, who is very professional and goal-orientat
 
 
 <div>
-  ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-morais&show_icons=true&theme=radical)
-
+  ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandremoraisf&show_icons=true&theme=radical)
 </div>
   
 
