@@ -38,8 +38,6 @@ A fully-qualified Software Developer, who is very professional and goal-orientat
 
 #### **Database**
 
-#### **Database**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
